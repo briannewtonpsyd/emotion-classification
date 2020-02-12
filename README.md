@@ -1,3 +1,3 @@
-# Classifying Emotion in Text Using Transformers Based Models
+# Classifying Emotion in Text Using Transformer Based Models
 
 The Jupyter Notebook in this repository (Using Transformers to Classify Emotion in Text.ipynb) outlines one approach using Transformer-based machine learning models to classify emotion in text. After pre-processing the data, training, evaluating and tuning the model, I was able to achieve a Matthews Correlation Coefficient (mcc) of approximately .52, and an F1 Micro score of nearly .87, as compared with the .71 F1 score reported in the study from which the dataset came. Please see the above notebook for more details about the process, including relevant references to the original study and libraries used.
